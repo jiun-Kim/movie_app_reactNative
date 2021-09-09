@@ -6,8 +6,8 @@
     "ios": "expo start --ios",
     "web": "expo start --web",
     "eject": "expo eject",
-    "deploy":"web-build",
-    "predeploy":"expo build:web"
+    "build":"web-build",
+    "prebuild":"expo build:web"
   },
   "dependencies": {
     "@react-navigation/bottom-tabs": "^6.0.5",
