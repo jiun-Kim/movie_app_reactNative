@@ -7,7 +7,7 @@
     "web": "expo start --web",
     "eject": "expo eject",
     "command": "expo build:web",
-    "publish": "web-build"
+    "publish": "/web-build"
   },
   "dependencies": {
     "@react-navigation/bottom-tabs": "^6.0.5",
